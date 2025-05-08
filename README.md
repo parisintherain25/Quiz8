@@ -8,8 +8,8 @@ Quiz 8 – Imaging & Coding Inspiration
 > My “Wheels of Fortune” is made of painterly textures and circles. Animating these with swirling and off-centered motion makes the spin elegant and lively—like Starry Night in motion.
 
 **Screenshots**  
-![image1](link_or_local_path)
-![Marcel Duchamp’s Rotoreliefs (1935)](https://www.artsy.net/artwork/marcel-duchamp-rotoreliefs-optical-discs-2)
+![Van Gogh 's The Stars](readmeImages/Van Gogh ‘The Stars’.jpg)
+![Marcel Duchamp’s Rotoreliefs (1935)](readmeImages/Marcel Duchamp.png)
 
 ---
 
