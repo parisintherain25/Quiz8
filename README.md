@@ -2,14 +2,15 @@ Quiz 8 – Imaging & Coding Inspiration
 
 ## Part 1: Imaging Technique Inspiration
 
-**Chosen Technique**: [I’m inspired by Van Gogh’s Starry Night and Marcel Duchamp’s Rotoreliefs (1935). I want to borrow the swirling strokes and paint dots from Van Gogh, and the off-centered spinning patterns from Duchamp’s discs.]
+**Chosen Technique**
+> I’m inspired by Van Gogh’s Starry Night and Marcel Duchamp’s Rotoreliefs (1935). I want to borrow the swirling strokes and paint dots from Van Gogh, and the off-centered spinning patterns from Duchamp’s discs.
 
 **Why I Chose It**  
 > My “Wheels of Fortune” is made of painterly textures and circles. Animating these with swirling and off-centered motion makes the spin elegant and lively—like Starry Night in motion.
 
 **Screenshots**  
-![Van Gogh 's The Stars](readmeImages/Van Gogh ‘The Stars’.jpg)
-![Marcel Duchamp’s Rotoreliefs (1935)](readmeImages/Marcel Duchamp.png)
+![Van Gogh 's The Stars](ReadmeImages/Van Gogh_TheStars.jpg)
+![Marcel Duchamp’s Rotoreliefs (1935)](ReadmeImages/Marcel Duchamp.png)
 
 ---
 
