@@ -9,7 +9,7 @@ Quiz 8 – Imaging & Coding Inspiration
 
 **Screenshots**  
 ![image1](link_or_local_path)
-![image2](link_or_local_path)
+![Marcel Duchamp’s Rotoreliefs (1935)](https://www.artsy.net/artwork/marcel-duchamp-rotoreliefs-optical-discs-2)
 
 ---
 
