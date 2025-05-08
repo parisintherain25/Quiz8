@@ -16,13 +16,13 @@ Quiz 8 – Imaging & Coding Inspiration
 
 ## Part 2: Coding Technique Exploration
 
-**Coding Method**: [e.g., “Parallax effect using p5.js mouse scroll”]
+**Coding Method**: [“Using p5.js to Implement Image Rotation and Oil Painting Dot Effect”]
 
 **How It Helps**  
-> This code shows how to create a parallax illusion using p5.js. It would help add interactive depth to my design when users scroll or hover.
+> This technique utilizes the rotate() function in p5.js to create a rotating image effect. It also combines a simulation of oil painting dot effects to enhance the visual appeal, making the image appear more artistic and dynamic.
 
 **Screenshot**  
-![codeExample](link_or_local_path)
+![codeExample](ReadmeImages/example.png)
 
 **Example Code Link**  
 [rococo oil painting on the GPU by clnrrr](https://editor.p5js.org/clnrrr/sketches/bdlGB5IpJ)
