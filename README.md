@@ -14,7 +14,7 @@ Quiz 8 – Imaging & Coding Inspiration
 
 ---
 
-## 💻 Part 2: Coding Technique Exploration
+## Part 2: Coding Technique Exploration
 
 **Coding Method**: [e.g., “Parallax effect using p5.js mouse scroll”]
 
@@ -25,4 +25,4 @@ Quiz 8 – Imaging & Coding Inspiration
 ![codeExample](link_or_local_path)
 
 **Example Code Link**  
-[https://editor.p5js.org/yourcodeexample](https://editor.p5js.org/yourcodeexample)
+[rococo oil painting on the GPU by clnrrr](https://editor.p5js.org/clnrrr/sketches/bdlGB5IpJ)
