@@ -10,7 +10,7 @@ Quiz 8 – Imaging & Coding Inspiration
 
 **Screenshots**  
 ![Van Gogh 's The Stars](ReadmeImages/VanGogh_TheStars.jpg)
-![Marcel Duchamp’s Rotoreliefs (1935)](ReadmeImages/Marcel Duchamp.png)
+![Marcel Duchamp’s Rotoreliefs (1935)](ReadmeImages/Marcel_Duchamp.png)
 
 ---
 
