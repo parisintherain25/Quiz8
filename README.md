@@ -16,7 +16,8 @@ Quiz 8 – Imaging & Coding Inspiration
 
 ## Part 2: Coding Technique Exploration
 
-**Coding Method**: [“Using p5.js to Implement Image Rotation and Oil Painting Dot Effect”]
+**Coding Method**
+>Using p5.js to Implement Image Rotation and Oil Painting Dot Effect.
 
 **How It Helps**  
 > This technique utilizes the rotate() function in p5.js to create a rotating image effect. It also combines a simulation of oil painting dot effects to enhance the visual appeal, making the image appear more artistic and dynamic.
